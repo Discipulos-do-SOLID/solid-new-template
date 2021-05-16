@@ -12,6 +12,9 @@
       "App\\": "app/"
     }
   },
+  "require": {
+    "php": ">=7.4"
+  },
   "require-dev": {
     "symfony/var-dumper": "^5.2"
   }
